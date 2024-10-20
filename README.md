@@ -11,6 +11,11 @@ The **Weight Tracking App** was designed to help users monitor their daily weigh
 - **Visualize Data**: Provide a way to visualize weight data in a structured format.
 - **User Registration and Authentication**: Securely register users and allow them to log in to access their data.
 - **Permission Handling**: Request and handle necessary permissions, such as SMS permissions.
+- 
+## Project Screenshot
+
+<img src="Images/Firstrelease.png" alt="Weight Tracking App" width="400"/>
+
 
 ---
 
