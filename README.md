@@ -14,7 +14,7 @@ The **Weight Tracking App** was designed to help users monitor their daily weigh
 - 
 ## Project Screenshot
 
-<img src="Images/Firstrelease.png" alt="Weight Tracking App" width="400"/>
+<img src="Images/Firstrelease.png" alt="Weight Tracking App" width="200"/>
 
 
 ---
@@ -28,6 +28,8 @@ To support these needs and create a user-centered UI, the following screens and 
 - **Data Display Screen**: Main screen for entering and viewing weight data, including an option to clear selected items.
 - **Weight Log Screen**: Displays historical weight data in a tabular format.
 - **SMS Permission Screen**: Requests SMS permissions from the user.
+
+<img src=Images/login.png alt="Weight Tracking App" width="200"/>
 
 ---
 
@@ -48,6 +50,9 @@ Key principles applied during the UI design:
   Ensuring elements like text and buttons are appropriately sized and accessible for all users.
 
 The design was successful because it prioritized ease of use, making the app both functional and visually appealing.
+
+<img src=Images/GoalWeight.png alt="Weight Tracking App" width="200" height="400"/>     <img src=Images/Enhancement2.png alt="Weight Tracking App" width="200" height="400"/>
+
 
 ---
 
@@ -89,6 +94,7 @@ Testing was an essential part of the development process and included:
 
 These tests revealed bugs and ensured the app performed well across different scenarios.
 
+<img src=Images/CloudeDB.png alt="Weight Tracking App" width="400" height="300"/>    <img src=Images/FireStoreIntegr.png alt="Weight Tracking App" width="400" height="300"/>
 ---
 
 ## 🚀 Innovation and Challenges
@@ -100,5 +106,8 @@ One of the main challenges was ensuring smooth **data persistence** and handling
 ## 📚 Demonstrating Knowledge, Skills, and Experience
 
 The successful integration of the **SQLite database** for persistent data storage demonstrated my knowledge of database management, SQL queries, and data handling in Android. Furthermore, the use of **RecyclerView** to display dynamic data lists showcased my ability to create efficient and user-friendly interfaces.
+
+<img src=Images/FinalRelease.png alt="Weight Tracking App" width="200" height="400"/>    <img src=Images/LocalLog.png alt="Weight Tracking App" width="200" height="400"/> 
+
 
 ---
